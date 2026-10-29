@@ -1,0 +1,7 @@
+{
+  "name": "Ammu",
+  "description": "आपकी अपनी प्यारी और सुपर-इंटेलिजेंट AI दोस्त - हर सवाल का तुरंत जवाब और मीठी आवाज़ में बातचीत।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

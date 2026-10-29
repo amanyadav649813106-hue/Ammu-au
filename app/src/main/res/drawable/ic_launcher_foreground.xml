@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Arc Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,54 m -28,0 a 28,28 0 1,0 56,0 a 28,28 0 1,0 -56,0"
+        android:strokeWidth="3"
+        android:strokeColor="#00E5FF" />
+    <!-- Segmented Inner Tech Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,54 m -21,0 a 21,21 0 1,0 42,0 a 21,21 0 1,0 -42,0"
+        android:strokeWidth="1.5"
+        android:strokeColor="#38BDF8" />
+    <!-- Center Core Nucleus -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M54,54 m -10,0 a 10,10 0 1,0 20,0 a 10,10 0 1,0 -20,0" />
+    <!-- Core Bright Dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54 m -4,0 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0" />
+    <!-- Energy Nodes -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,23 L54,27 M54,81 L54,85 M23,54 L27,54 M81,54 L85,54"
+        android:strokeWidth="2.5"
+        android:strokeColor="#00E5FF" />
+</vector>
